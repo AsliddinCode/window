@@ -1,0 +1,75 @@
+.vids{
+    display: flex;
+  
+  }
+  .vids img {
+    width: 30px;
+    height: 30px;
+  }
+  .header{
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+  
+  }
+  .main-card{
+    width: 1050px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+  }
+  .prise img{
+    width: 30px;
+    height: 30px;
+    border: 1px solid #fff;
+  }
+  .prise{
+    display: flex;
+    flex-direction: column;
+    margin-left: 100px;
+  }
+  .btn-korzina{
+    margin-bottom: 13px;
+  
+  }
+  .block-card{
+    width: 310px;
+    border-radius: 5px;
+    margin-left: 30px;
+  }
+  .part1{
+    display: flex;
+    justify-content: end;
+  }
+  .part2 img{
+    width: 212px;
+    height: 184px;
+  }
+  .part2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .part3{
+    width: 230px;
+    height: 40px;
+    margin-top: 28px;
+    margin-bottom: 16px;
+  }
+  .part4{
+    display: flex;
+    justify-content: space-between;
+  }
+  .btn-nachile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .container{
+    background-color:#f0f0f0;
+  
+  }
+  button{
+    border: none;
+  }
+  
